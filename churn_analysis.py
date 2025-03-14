@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-df = pd.read_csv('/content/Churn_Modelling.csv')
+df = pd.read_csv('Churn_Modelling.csv')
 
 st.title('Churn Analysis')
 
